@@ -29,3 +29,39 @@ a = a + 1
 print(a)
 a += 1
 print(a)
+
+a = (1 + 1) ** (4 ** (2 / 2 *2) / 2)
+print(a)
+
+a = -3 ** 2
+print(a)
+
+a = (-3) ** 2
+print(a)
+
+a = 3
+b = 4
+hipotenus = (a ** 2 + b ** 2 )** 0.5
+print(hipotenus)
+
+print(a,b,hipotenus, sep="---->")
+
+print(a,end="bitti")
+print(b)
+print(hipotenus)
+
+bir = "ilk satir"
+iki = "ikinci satir"
+uc = "ucuncu satir"
+
+print(bir,iki,uc, sep="---bosluk----")
+
+
+print(bir, end="\n*****")
+print(iki)
+print(uc)
+
+print(bir,iki,uc, sep="*-*", end="?")
+print(bir,iki,uc,)
+print(bir,iki,uc,)
+
