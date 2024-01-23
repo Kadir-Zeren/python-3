@@ -65,3 +65,18 @@ print(bir,iki,uc, sep="*-*", end="?")
 print(bir,iki,uc,)
 print(bir,iki,uc,)
 
+
+print(r"bu\gun\ben\neden\taksiye\bindim")
+
+print(True and True)
+print(True and False)
+print(True or True)
+print(True or False)
+
+print(bool(0))
+print(bool(""))
+print(not False)
+print(bool(None))
+
+print(2 and 3)
+print(1 and 0)
